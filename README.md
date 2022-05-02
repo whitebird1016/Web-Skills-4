@@ -1,4 +1,4 @@
-# Web-Skills-with-Shikmamaru(4)
+# Web-Skills(4)
 ![Shikamaru](https://github.com/whitebird1016/Web-Skills-with-Shikmamaru/blob/main/1_HTGSqvOc52yfMwyLhCMjVA.jpeg)
 <h2>Array Skills</h2>
 <h3>1: Clone array</h3>
